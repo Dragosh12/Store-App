@@ -32,8 +32,6 @@ def store(request, category_slug=None):
     context = {
         'products'     : paged_product,
         'product_count': product_count,
-        'page'         : page,
-        'paged_product': paged_product,
         
     }
     return render(request, 'store/store.html', context)
