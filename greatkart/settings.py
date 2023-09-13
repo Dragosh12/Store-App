@@ -154,9 +154,9 @@ EMAIL_PORT = 587
 
 EMAIL_USE_TLS = True
 
-EMAIL_HOST_USER = 'dragosmitroi768@yahoo.com'
+EMAIL_HOST_USER = 'mitroidragos1@gmail.com'
 
-EMAIL_HOST_PASSWORD = 'Aiurea2000'
+EMAIL_HOST_PASSWORD = 'ypbgyksemkphjijz'
 
 
 
